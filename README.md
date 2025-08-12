@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🎓 Currently studying C/C++ and Linux at [42 Roma Luiss](https://www.42roma.it/).  
 💻 Passionate about low-level programming, open source, and building custom development tools.
