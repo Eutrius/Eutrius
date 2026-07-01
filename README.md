@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
-<h3 align="center">A student at 42 Roma Luiss</h3>
+<h3 align="center">A student at 42 Roma Elis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eutrius&label=Profile%20views&color=0e75b6&style=flat" alt="eutrius" /> </p>
 
-- 🔭 I’m currently working on a custom **malloc** project
+- 🔭 I’m currently working on a custom **libasm** project
 
 - 🌱 I’m currently learning about **x86 Assembly with NASM**
 
