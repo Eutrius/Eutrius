@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a custom **malloc** project
 
-- 🌱 I’m currently learning about **Linux MM subsystem**
+- 🌱 I’m currently learning about **x86 Assembly with NASM**
 
 - 📫 How to reach me **jyriarte@student.42roma.it**
 
