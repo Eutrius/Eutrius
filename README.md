@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eutrius&label=Profile%20views&color=0e75b6&style=flat" alt="eutrius" /> </p>
 
-- 🔭 I’m currently working on a custom **libasm** project
+- 🔭 I’m currently working on a custom **malloc** project
 
-- 🌱 I’m currently learning about **x86 Assembly with NASM**
+- 🌱 I’m currently learning about **Memory mapping**
 
 - 📫 How to reach me **jyriarte@student.42roma.it**
 
